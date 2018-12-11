@@ -20,3 +20,4 @@ Pipeline (depending on the branch that Jenkins builds from).
 # javaexample
 # javaexample
 # multibrancg_pipeline
+# multibranch_pipeline
